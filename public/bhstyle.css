@@ -1,0 +1,37 @@
+fieldset.fsStyle {
+border: 1px solid #999999;
+padding: 4px;
+margin: 5px;
+}
+
+legend {
+width: auto;
+font-weight: bold;
+border-bottom: 0px;
+}
+
+.formtest {
+width: 100%;
+}
+
+.bhcolor {
+color: DodgerBlue;
+font-weight: bold;
+}
+
+.homepg {
+    background: url("BHtest.gif");
+    background-repeat: no-repeat;
+    background-position: center auto;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain; 
+
+}
+
+footer {
+text-align: center;
+margin: auto;
+margin-top: 15%;
+}
