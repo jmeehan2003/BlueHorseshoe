@@ -1,5 +1,3 @@
-//input your valid DB details here
-
 var mysql = require('mysql');
 var pool = mysql.createPool({
   connectionLimit : 10,
